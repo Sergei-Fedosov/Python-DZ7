@@ -1,6 +1,6 @@
 import random
 import csv
-
+import logger as lg
 
 
 file = open('base_phone.csv', 'w')

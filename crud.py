@@ -1,6 +1,6 @@
 import csv
 import os.path
-
+import logger as lg
 
 
 db_file_name = ''
